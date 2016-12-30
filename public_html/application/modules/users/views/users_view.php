@@ -1,6 +1,6 @@
 <div class="panel panel-primary">
     <div class="panel-heading">
-        <h4 class="panel-title"><i class="entypo-doc-text-inv"></i> Users</h4>
+        <h4 class="panel-title"><i class="entypo-users"></i> Users</h4>
     </div>
     <div class="panel-body">
         <table class="table table-bordered dataTable" id="events-table">

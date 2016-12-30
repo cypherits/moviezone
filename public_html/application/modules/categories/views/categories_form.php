@@ -1,6 +1,6 @@
 <div class="panel panel-primary">
     <div class="panel-heading">
-        <h3 class="panel-title"><i class="entypo-users"></i> Categories Form</h3>
+        <h3 class="panel-title"><i class="entypo-flow-tree"></i> Categories Form</h3>
     </div>
     <div class="panel-body">
         <?php

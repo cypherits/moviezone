@@ -30,4 +30,11 @@
             <li><?php echo anchor('admincm/modules/genres/view', '<i class="entypo-dot"></i> <span>All Genres</span>'); ?></li>
         </ul>
     </li>
+    <li>
+         <?php echo anchor('#', '<i class="entypo-chat"></i> <span>Support</span>'); ?>
+        <ul>
+            <li><?php echo anchor('admincm/modules/support/open', '<i class="entypo-dot"></i> <span>Open Support Ticket</span>'); ?></li>
+            <li><?php echo anchor('admincm/modules/support/view', '<i class="entypo-dot"></i> <span>View Support Quee</span>'); ?></li>
+        </ul>
+    </li>
 </ul>
